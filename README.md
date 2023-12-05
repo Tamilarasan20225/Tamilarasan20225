@@ -55,8 +55,10 @@ get creative and make a change" type of person who is highly flexible and self m
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasan20225&layout=compact&langs_count=10&hide_progress=true)](https://github.com/Tamilarasan20225)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilarasan20225&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/Tamilarasan20225)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tamilarasan20225&show_icons=true&theme=tokyonight&rank_icon=github"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilarasan20225&theme=tokyonight" alt="github-streak" height="175px" width="45%" /></p>
+
 
 ## 🤝🏻 Connect with Me
 
